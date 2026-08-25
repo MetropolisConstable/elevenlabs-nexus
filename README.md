@@ -30,4 +30,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 3. **Batch Generation:** Queue multiple tasks and process large datasets efficiently.
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.                 
+> This project is shared as-is. All product names and logos belong to their respective owners.                  
